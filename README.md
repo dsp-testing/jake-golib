@@ -4,4 +4,4 @@ Just a library for testing Dependabot stuff.
 
 ## latest version
 
-v1.0.3
+v1.0.4
